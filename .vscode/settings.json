@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "stdlib.h": "c",
+    "stddef.h": "c",
+    "stdexcept": "cpp"
+  }
+}
